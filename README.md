@@ -4,7 +4,7 @@
   <img src="https://github.com/Jeeya201/SANT/assets/104685075/10ffdc11-19e6-4e70-a102-a9ffb9fdc379">
 </p>
 
-# <div align="center">Experience the future of web design with SANT </div>
+# <div align="center">Experience the future of web design with SANT.Click on the below link to view the website !</div>
 ## <div align="center"> https://luxury-maamoul-1652cd.netlify.app</div>
 
 
