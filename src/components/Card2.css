@@ -1,0 +1,34 @@
+.card2 {
+    width: 250px;
+    height: 180px;
+    padding: 0.5rem;
+    background: rgb(25, 36, 49);
+    border-radius: 8px;
+    backdrop-filter: blur(5px);
+    border-bottom: 3px solid rgb(0, 0, 0);
+    border-left: 4px solid rgb(0, 0, 0) ;
+    box-shadow: -40px 50px 30px rgba(0, 0, 0, 0.280);
+    transform: skewX(10deg);
+    transition: .4s;
+    overflow: hidden;
+    color: white;
+    font-size: small;
+  }
+  h1{
+    font-size: large;
+  }
+  .card2:hover {
+    height: 354px;
+    transform: skew(0deg);
+  }
+  
+  .card2 img{
+    /* background-attachment: fixed; */
+    margin-top: -10px;
+    margin-left: -10px;
+    /* height: 224px; */
+    width: 300px;
+    height: 200px;
+    
+  }
+  
