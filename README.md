@@ -1,75 +1,47 @@
-<<<<<<< HEAD
-# SANT
-Welcome to SANT , your gateway to innovative construction solutions . Our platform is dedicated to transforming visions into reality by providing cutting-edge expertise and services in the construction industry.
-=======
-# Getting Started with Create React App
+# <div align ="center">Shams Al Noor Technologies (SANT) - A Stunning React Website</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://github.com/Jeeya201/SANT/assets/104685075/10ffdc11-19e6-4e70-a102-a9ffb9fdc379">
+</p>
 
-## Available Scripts
+## About SANT
+SANT is a specialized approved contractor in supply and application of various construction technologies in Oman.The services include Fire Stop, Diamond Coring & Cutting, Integrated Floor System, Fireproofing, Concrete Repair and Protection Technologies, GRP Lining, and Waterproofing.
 
-In the project directory, you can run:
+## Importance
 
-### `npm start`
+SANT is a testament to the fusion of technology and artistry. Its UI sets it apart, offering users an unparalleled experience that engages and delights. From scrolling effects to subtle glows, every detail has been crafted to elevate the users browsing journey.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+SANT is built using React, a JavaScript library renowned for its performance and flexibility. The tech stack also includes various effects that enhance user interaction:
 
-### `npm test`
+- **Scrolling Effects:** Engage users as they navigate through the site with dynamic scrolling animations.
+- **Hover Effects:** Delight users with interactive elements that respond to mouse movement.
+- **Glow:** Add a touch of magic with subtle glows that accentuate key components.
+- **Parallax:** Create depth and immersion with layered scrolling effects.
+  
+# Images and Videos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Experience SANT: Explore the Power of React and Innovation!
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/Jeeya201/SANT/assets/104685075/75f97d8e-f231-4a59-a328-1b8db0fa8654
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Components
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### About Us
+### Card
+### Card2
+### Contact Button
+### Email Tooltip
+### Explore Button
+### Explore Services
+### Footer
+### Hero
+### Info Button
+### Our Projects
+### Projects
+### Socials
+### Title Glow
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 7510b49 (Initialize project using Create React App)
+# Experience the future of web design with SANT. [Visit our website](https://www.example.com) today!
