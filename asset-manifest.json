@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SANT/static/css/main.397cc1fa.css",
+    "main.js": "/SANT/static/js/main.f60eb6ab.js",
+    "static/js/453.a34f20b0.chunk.js": "/SANT/static/js/453.a34f20b0.chunk.js",
+    "index.html": "/SANT/index.html",
+    "main.397cc1fa.css.map": "/SANT/static/css/main.397cc1fa.css.map",
+    "main.f60eb6ab.js.map": "/SANT/static/js/main.f60eb6ab.js.map",
+    "453.a34f20b0.chunk.js.map": "/SANT/static/js/453.a34f20b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397cc1fa.css",
+    "static/js/main.f60eb6ab.js"
+  ]
+}
