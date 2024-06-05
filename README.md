@@ -4,7 +4,7 @@
   <img src="https://github.com/Jeeya201/SANT/assets/104685075/10ffdc11-19e6-4e70-a102-a9ffb9fdc379">
 </p>
 
-# <div align="center">Experience the future of web design with SANT.Click on the below link to view the website !</div>
+## <div align="center">Click on the below link to view the website !</div>
 ## <div align="center"> https://luxury-maamoul-1652cd.netlify.app</div>
 
 
@@ -26,8 +26,7 @@ SANT is built using React, a JavaScript library renowned for its performance and
   
 # Images and Videos
 
-## Experience SANT: Explore the Power of React and Innovation!
-
+## Catch a glimpse of the video which demonstrates the working of the  website
 
 https://github.com/Jeeya201/SANT/assets/104685075/75f97d8e-f231-4a59-a328-1b8db0fa8654
 
