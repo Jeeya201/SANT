@@ -1,4 +1,4 @@
-# <div align ="center">Shams Al Noor Technologies (SANT) - A Stunning React Website</div>
+# <div align ="center">Shams Al Noor Technologies (SANT) - A React Website</div>
 
 <p align="center">
   <img src="https://github.com/Jeeya201/SANT/assets/104685075/10ffdc11-19e6-4e70-a102-a9ffb9fdc379">
